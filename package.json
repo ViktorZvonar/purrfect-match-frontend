@@ -2,7 +2,7 @@
   "name": "purrfect-match-frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yabr87.github.io/purrfect-match-frontend/",
+  "homepage": "https://ViktorZvonar.github.io/purrfect-match-frontend/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.3",
     "@testing-library/jest-dom": "^5.16.3",
