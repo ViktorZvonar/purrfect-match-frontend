@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://viktorzvonar.github.io/purrfect-match-frontend/static/css/main.d5219b8d.css",
-    "main.js": "https://viktorzvonar.github.io/purrfect-match-frontend/static/js/main.781026ae.js",
+    "main.js": "https://viktorzvonar.github.io/purrfect-match-frontend/static/js/main.9404138b.js",
     "static/js/83.237c7a0d.chunk.js": "https://viktorzvonar.github.io/purrfect-match-frontend/static/js/83.237c7a0d.chunk.js",
     "static/js/904.2ce10dea.chunk.js": "https://viktorzvonar.github.io/purrfect-match-frontend/static/js/904.2ce10dea.chunk.js",
     "static/js/930.05eebe16.chunk.js": "https://viktorzvonar.github.io/purrfect-match-frontend/static/js/930.05eebe16.chunk.js",
@@ -36,7 +36,7 @@
     "static/media/bg-tablet-min.png": "https://viktorzvonar.github.io/purrfect-match-frontend/static/media/bg-tablet-min.1f23f50a8de903ac9b8e.png",
     "index.html": "https://viktorzvonar.github.io/purrfect-match-frontend/index.html",
     "main.d5219b8d.css.map": "https://viktorzvonar.github.io/purrfect-match-frontend/static/css/main.d5219b8d.css.map",
-    "main.781026ae.js.map": "https://viktorzvonar.github.io/purrfect-match-frontend/static/js/main.781026ae.js.map",
+    "main.9404138b.js.map": "https://viktorzvonar.github.io/purrfect-match-frontend/static/js/main.9404138b.js.map",
     "83.237c7a0d.chunk.js.map": "https://viktorzvonar.github.io/purrfect-match-frontend/static/js/83.237c7a0d.chunk.js.map",
     "904.2ce10dea.chunk.js.map": "https://viktorzvonar.github.io/purrfect-match-frontend/static/js/904.2ce10dea.chunk.js.map",
     "930.05eebe16.chunk.js.map": "https://viktorzvonar.github.io/purrfect-match-frontend/static/js/930.05eebe16.chunk.js.map",
@@ -56,6 +56,6 @@
   },
   "entrypoints": [
     "static/css/main.d5219b8d.css",
-    "static/js/main.781026ae.js"
+    "static/js/main.9404138b.js"
   ]
 }
